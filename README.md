@@ -1,2 +1,2 @@
 # Tetris-OS
-Tetris In As An Operating System
+Tetris In As An x86 i386 Operating System
